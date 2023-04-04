@@ -1,2 +1,32 @@
-
-/* Your CSS Code here. */
+body{
+	background:black;
+	box-sizing:border-box;
+}
+#gameContainer{
+	height:400px;
+	width:400px;
+}
+.food{
+	background:white;
+	border:1px solid white;
+	padding:1rem;
+	width:1px
+	
+}
+.snakeBodyPixel{
+	background:red;
+	border:1px solid white;
+	padding:1rem;
+	width:1px
+	
+	
+}
+.scoreBoard{
+	background:white;
+	border:2px solid white;
+	padding:1rem;
+	width:px
+	
+	
+	
+}
